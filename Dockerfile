@@ -6,3 +6,4 @@ WORKDIR /app
 EXPOSE 1337
 
 CMD nodemon --watch . sails lift
+CMD sails migrate

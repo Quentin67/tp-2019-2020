@@ -1,3 +1,6 @@
+
+![badge test](https://travis-ci.org/quentin67/tp-2019-2020.png?branch=master)
+
 ## TP noté 2019-2020
 
 ### How to start

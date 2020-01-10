@@ -1,1 +1,0 @@
-postdeploy: knex migrate:latest
